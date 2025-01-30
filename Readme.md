@@ -1,5 +1,3 @@
-Mathematics Foundation
+Table of Content
 
-1. Spaces Basics
-
-notes/intro/1-vector.md
+### [1. Vector](./notes/intro/1-vector.md)
